@@ -31,7 +31,9 @@ gem 'turbolinks', '~> 5'
 
 #image uploads to Amazon S3
 gem 'carrierwave', '~> 2.1'
-gem 'fog', '~> 2.2'
+# gem 'fog', '~> 2.2'
+gem 'fog', '~> 1.37.0'
+gem "fog-aws"
 
 #image resizing
 gem 'mini_magick', '~> 4.10', '>= 4.10.1'

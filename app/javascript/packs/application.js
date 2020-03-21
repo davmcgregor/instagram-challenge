@@ -3,10 +3,9 @@
 // a relevant structure within app/javascript and only use these pack files to reference
 // that code so it'll be compiled.
 
-require("jquery.min")
+require("jquery.min").start()
 require("@rails/ujs").start()
-require("turbolinks").start()
-require("bootstrap.min")
+require("bootstrap.min").start()
 require("@rails/activestorage").start()
 require("channels")
 
