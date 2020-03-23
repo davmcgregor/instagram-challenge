@@ -2,11 +2,9 @@
 
 # Instagram Challenge ❤️
 
-Link to App - https://offtherails-acebook.herokuapp.com/
-
 #### Technologies: Ruby, Rails, HTML, SCSS
 
-[Task](#Task) | [Installation Instructions](#Installation) | [User Stories](#User_Stories) | [Further improvements](#Further_Improvements)
+[Task](#Task) | [Installation Instructions](#Installation) | [Further improvements](#Further_Improvements)
 
 ![InstaScreenshot](InstaScreenshot.png)
 
