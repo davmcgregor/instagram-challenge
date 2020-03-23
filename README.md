@@ -1,24 +1,39 @@
-# README
+### [Makers Academy](http://www.makersacademy.com) - Additional programming challenge 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Instagram Challenge ❤️
 
-Things you may want to cover:
+Link to App - https://offtherails-acebook.herokuapp.com/
 
-* Ruby version
+#### Technologies: Ruby, Rails, HTML, SCSS
 
-* System dependencies
+[Task](#Task) | [Installation Instructions](#Installation) | [User Stories](#User_Stories) | [Further improvements](#Further_Improvements)
 
-* Configuration
+![InstaScreenshot](InstaScreenshot.png)
 
-* Database creation
+## <a name="Task">The Task</a>
 
-* Database initialization
+Build Instagram: Simple huh!
 
-* How to run the test suite
+Your challenge is to build Instagram using Rails. You'll need **users** who can post **pictures**, write **comments** on pictures and **like** a picture. Style it like Instagram's website (or more awesome).
 
-* Services (job queues, cache servers, search engines, etc.)
+Bonus if you can add filters!
 
-* Deployment instructions
+This challenge is an additional programming challenge at [Makers Academy](https://github.com/makersacademy).
 
-* ...
+## <a name="Installation">Installation Instructions</a>
+
+First, clone this repository. Then:
+
+```bash
+> bundle install
+> rake db:create
+> rake db:migrate
+> rails server 
+```
+Visit the app at localhost:3000
+
+## <a name="Further_Improvements">Further Improvements</a>
+
+* Styling
+* More features: multiple users, comments, likes, filters etc.
+* Follow [this tutotial](https://www.youtube.com/watch?v=yhg7hd3ogJ8&t)
